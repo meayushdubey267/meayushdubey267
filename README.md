@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Dubey</h1>
-<h3 align="center">👨‍💻I am a Computer Science Engineer from kolkata skilled in MERN Stack. I have create some Full Stack projects different tools and technologies.</h3>
+<h3 align="center">👨‍💻I am a Computer Science Engineer skilled in MERN Stack. I have created some Full Stack projects with different tools and technologies .</h3>
 
 - 🔭 I’m currently working on *Competitive Programming*
 
